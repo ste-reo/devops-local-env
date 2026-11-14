@@ -1,0 +1,27 @@
+==========================================
+   DevOps Workstation Verification
+==========================================
+User: victor | Host: STEREO | Date: Sat Nov 14 18:00:35 WAT 2026
+
+--- 1. Checking Installed Tools ---
+[OK]      git -> /usr/bin/git
+[OK]      docker -> /usr/bin/docker
+[OK]      kubectl -> /usr/local/bin/kubectl
+[OK]      minikube -> /usr/local/bin/minikube
+[OK]      helm -> /usr/local/bin/helm
+[OK]      aws -> /usr/local/bin/aws
+[OK]      az -> /usr/bin/az
+[OK]      node -> /usr/bin/node
+[OK]      jq -> /usr/bin/jq
+[OK]      terraform -> /usr/bin/terraform
+[OK]      ansible -> /usr/bin/ansible
+
+--- 2. Checking Permissions & Security ---
+[OK]      User 'victor' is in the 'docker' group (non-root access enabled)
+[OK]      Docker daemon is running and accessible without sudo
+[INFO]    /home/victor/.ssh not created yet
+[INFO]    /home/victor/.kube exists with permissions: 755
+
+==========================================
+SUCCESS: All 11 DevOps tools verified!
+==========================================
