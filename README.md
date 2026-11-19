@@ -26,10 +26,10 @@ All 11 required tools and security permissions are validated automatically via `
 
 | Tool / Account | Verification Screenshot |
 | :--- | :--- |
-| **Git Installation & Config** | ![Git Setup](screenshots/01-git-install.png) |
-| **VS Code (WSL Integration)** | ![VS Code Setup](screenshots/02-vscode-wsl.png) |
-| **GitHub Account & Repo** | ![GitHub Setup](screenshots/03-github-account.png) |
-| **AWS Console Account** | ![AWS Account](screenshots/04-aws-account.png) |
-| **Azure Portal Account** | ![Azure Account](screenshots/05-azure-account.png) |
-| **AWS CLI Installation** | ![AWS CLI](screenshots/06-aws-cli.png) |
-| **Azure CLI Installation** | ![Azure CLI](screenshots/07-azure-cli.png) |
+| **Git Installation & Config** | ![Git Setup](screenshots/git.png) |
+| **VS Code (WSL Integration)** | ![VS Code Setup](screenshots/vscode.png) |
+| **GitHub Account & Repo** | ![GitHub Setup](screenshots/github.png) |
+| **AWS Console Account** | ![AWS Account](screenshots/aws-account.png) |
+| **Azure Portal Account** | ![Azure Account](screenshots/azure-account.png) |
+| **AWS CLI Installation** | ![AWS CLI](screenshots/aws-cli.png) |
+| **Azure CLI Installation** | ![Azure CLI](screenshots/azure-cli.png) |
