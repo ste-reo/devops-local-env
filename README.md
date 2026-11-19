@@ -19,3 +19,17 @@ All 11 required tools and security permissions are validated automatically via `
    - *Fix:* Ensured Docker Desktop was running on Windows, verified the socket connection with `docker ps`, set the default driver (`minikube config set driver docker`), and ran `minikube start`.
 2. **WSL2 File Permissions:**
    - Secured sensitive configuration folders (`~/.ssh` and `~/.kube`) to `700` permissions.
+
+---
+
+## Installation & Account Setup Proof
+
+| Tool / Account | Verification Screenshot |
+| :--- | :--- |
+| **Git Installation & Config** | ![Git Setup](screenshots/01-git-install.png) |
+| **VS Code (WSL Integration)** | ![VS Code Setup](screenshots/02-vscode-wsl.png) |
+| **GitHub Account & Repo** | ![GitHub Setup](screenshots/03-github-account.png) |
+| **AWS Console Account** | ![AWS Account](screenshots/04-aws-account.png) |
+| **Azure Portal Account** | ![Azure Account](screenshots/05-azure-account.png) |
+| **AWS CLI Installation** | ![AWS CLI](screenshots/06-aws-cli.png) |
+| **Azure CLI Installation** | ![Azure CLI](screenshots/07-azure-cli.png) |
